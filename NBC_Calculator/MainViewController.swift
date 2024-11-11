@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MainViewController.swift
 //  NBC_Calculator
 //
 //  Created by 전성규 on 11/11/24.
@@ -7,13 +7,8 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
+final class MainVIewcontroller: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
 }
-
